@@ -1,0 +1,73 @@
+/* info card */
+.card1{
+    margin-left:7%; 
+    width:40rem;
+    margin-top:4%;
+    border-radius: 5%;
+}
+
+.headings{
+    margin-top: 15%; margin-left:14%;
+}
+
+/* achievement cards */
+
+/* left-side card */
+.card-left{
+    margin-left:7%; 
+    width:50rem;
+    margin-top:4%;
+    border-radius: 5%;
+}
+
+/* right-side card */
+.card-right{
+    width:50rem;
+    margin-top:4%;
+    border-radius: 5%;
+    margin-left:60%;
+}
+
+/* feedback-card */
+.feedback-card{
+    margin-left:10%;
+    border-radius:5%;   
+}
+
+/* sponsor logo */
+.spons
+{
+    margin: 3% 5%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Footer CSS */
+.footercs{
+    padding-top: 25%;
+    padding-bottom: 1%;
+    margin-top: 5%;
+}
+
+/* feedback card first */
+.fb-card{
+    width:80rem; 
+    height: 30rem;
+    border-radius: 42px;
+}
+.fbc1
+{
+  position: relative;
+  width: 30%;
+  height: 25%;
+  border-radius: 10px;
+  border:5px solid black;
+  margin-left:15%;
+  /* padding:3%; */
+  transform: translateY(-80%);
+}
+
+.post{
+    font-family: Nunito Sans;
+    font-weight:bolder;
+}
