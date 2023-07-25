@@ -30,8 +30,9 @@
 
 /* feedback-card */
 .feedback-card{
-    margin-left:10%;
-    border-radius:5%;   
+    margin-left:5%;
+    border-radius:5%;  
+    background: #F8FAFC 0% 0% no-repeat padding-box; 
 }
 
 /* sponsor logo */
@@ -51,20 +52,20 @@
 
 /* feedback card first */
 .fb-card{
-    width:80rem; 
+    width:90rem; 
     height: 30rem;
     border-radius: 42px;
 }
 .fbc1
 {
   position: relative;
-  width: 30%;
-  height: 25%;
-  border-radius: 10px;
-  border:5px solid black;
-  margin-left:15%;
-  /* padding:3%; */
-  transform: translateY(-80%);
+  width: 25%;
+  height: 10%;
+  border-radius: 30px;
+  margin-left:5%;
+  box-shadow: 0px 16px 48px #00000029;
+  transform: translateY(-70%);
+  background: #FFFFFF 0% 0% no-repeat padding-box;
 }
 
 .post{
