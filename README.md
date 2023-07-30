@@ -3,6 +3,8 @@
  **Project Overview:** 
               The objective of this web development project is to design and develop a visually appealing and user-friendly static web page for a specific purpose                or business. A static web page is a fixed page that displays the same content to every user, as opposed to dynamic pages that can change based on                   user interactions. This project will focus on crafting a seamless and professional web page that effectively communicates the intended message or                   information. 
               
+  **Live Demo :** https://webdevtask1.netlify.app/
+  
   **Project Scope:** The scope of this project will include the following key elements:  
               1. **Design and Layout:** 
                       A clean, modern, and responsive design will be created to ensure optimal user experience across various devices and screen sizes. The layout                        will be intuitive and easy to navigate, with attention given to readability and visual appeal.  
